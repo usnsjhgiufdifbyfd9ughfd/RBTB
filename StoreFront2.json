@@ -63,15 +63,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 900
+          "Price": 1500
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 615,
-          "FriendlyName": "Steampunk Vest (Red)",
+          "FriendlyName": "Happy Trees Shirt",
           "Tooltip": "",
-          "AvatarItemDesc": "E9VTiIVFPEa-OuQRto0e_Q,Yr0mF1EWzEaIyRMOWFiY6w,,",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,0440f08f-ef1d-49d8-942b-523056e8bb45,ba6b6e1a-a09a-4ba0-9523-552869f03336,d461ca71-45c9-415e-8e09-ba93e8d73450",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
