@@ -96,9 +96,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1163,
-          "FriendlyName": "Keep Warm Hat (White,Pink)",
+          "FriendlyName": "Winter Hat (Green)",
           "Tooltip": "",
-          "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+          "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -204,9 +204,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 717,
-          "FriendlyName": "Keep Warm Set Scarf (White,Pink)",
+          "FriendlyName": "Winter Scarf (Green)",
           "Tooltip": "",
-          "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+          "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -312,7 +312,7 @@
       "GiftDrops": [
         {
           "GiftDropId": 686,
-          "FriendlyName": "Keep Warm Set Sweater (White,Pink)",
+          "FriendlyName": "Winter Set Torso (Green)",
           "Tooltip": "",
           "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
           "ConsumableItemDesc": "",
@@ -333,15 +333,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 200
+          "Price": 0
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 1154,
-          "FriendlyName": "Winter Gloves (Pink)",
+          "FriendlyName": "",
           "Tooltip": "",
-          "AvatarItemDesc": "3a790be3-2937-44d4-be01-b5d65353bd3d,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+          "AvatarItemDesc": "",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
