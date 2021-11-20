@@ -63,15 +63,15 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 900
+          "Price": 200500
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 615,
-          "FriendlyName": "Steampunk Dress",
+          "FriendlyName": "Dev Item",
           "Tooltip": "",
-          "AvatarItemDesc": "A6VnGtpY9Ey0atf3zaLo3g",
+          "AvatarItemDesc": "97eae086-cfea-45ff-9b77-1d184256d493,8768aa33-b014-4062-b323-b146dd7d78d2,d3a9b576-5433-4305-bd96-b08820c09212",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
