@@ -1,1 +1,21 @@
-{"LastUpdated":"2021-11-20T20:33:15.5686476+10:00","UserGifts":{"69420":[{"Id":7007,"AvatarItemDesc":"","ConsumableItemDesc":"","EquipmentPrefabName":"","EquipmentModificationGuid":"","CurrencyType":2,"Currency":200000,"Xp":0,"Level":0,"GiftRarity":5,"Message":"Tokeyz","Context":2}]}}
+{
+  "LastUpdated": "2021-10-10T00:29:14+00:00",
+  "UserGifts": {
+    "936679107": [
+      {
+        "Id": 7006,
+        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,8c8ab627-916f-4273-a943-53c22b6dfbf4,,PIHHdG5fvU-7xQWKQ0DreA",
+        "ConsumableItemDesc": "",
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "CurrencyType": 2,
+        "Currency": 1,
+        "Xp": 0,
+        "Level": 0,
+        "GiftRarity": 50,
+        "Message": "Staff Tee",
+        "Context": 1
+      }
+    ]
+  }
+}
